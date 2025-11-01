@@ -4,7 +4,7 @@
 
 mpv-android is a video player for Android based on [libmpv](https://github.com/mpv-player/mpv).
 
-## Features
+## Features:
 
 * Hardware and software video decoding
 * Gesture-based seeking, volume/brightness control and more
